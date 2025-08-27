@@ -20,8 +20,7 @@ This project demonstrates an interactive **Power BI Sales Dashboard** that showc
 
 ---
 
-## Insights (Example)  
-*(Update these based on your actual visuals)*  
+## Insights (Example)    
 - Identified **top-performing regions/products** driving majority of sales  
 - Spotted **seasonal sales spikes**, such as higher volumes in specific quarters  
 - Visual exploration revealed **key trends in product categories**
@@ -37,4 +36,4 @@ This project demonstrates an interactive **Power BI Sales Dashboard** that showc
 
 
 ## Author  
-This project was created by [Himanshu Dubey] as part of upskilling in data visualization and analytics using Power BI. For more, visit [GitHub Profile](https://github.com/Himanshu977-star).
+This project was created by Himanshu Dubey as part of upskilling in data visualization and analytics using Power BI. For more, visit [GitHub Profile](https://github.com/Himanshu977-star).
